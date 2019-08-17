@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="31f4f4d8-3e96-46a9-a8a3-b8e7edfc335c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/omarathon/riotapicrawler/presets/util/EloHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/omarathon/riotapicrawler/presets/util/EloHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/omarathon/riotapicrawler/presets/matchfilters/QueueMatchFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/omarathon/riotapicrawler/presets/matchfilters/QueueMatchFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/omarathon/riotapicrawler/src/lib/filter/GhostFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/omarathon/riotapicrawler/src/lib/filter/GhostFilter.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -18,16 +20,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/riotapicrawler.iml">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/riot-api-crawler.iml">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="289">
@@ -39,7 +31,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/omarathon/riotapicrawler/src/Crawler.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="436">
+            <state relative-caret-position="510">
               <caret line="44" column="66" selection-start-line="44" selection-start-column="66" selection-end-line="44" selection-end-column="66" />
               <folding>
                 <element signature="e#6731#6732#0" expanded="true" />
@@ -71,19 +63,37 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/com/omarathon/riotapicrawler/presets/util/estimators/MaxSummonerEloEstimator.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="289">
-              <caret line="23" column="13" lean-forward="true" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+              <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/omarathon/riotapicrawler/presets/util/EloHelper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="564">
+              <caret line="55" column="48" selection-start-line="55" selection-start-column="48" selection-end-line="55" selection-end-column="48" />
+              <folding>
+                <element signature="e#0#5321#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/omarathon/riotapicrawler/src/lib/filter/GhostFilter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="26" lean-forward="true" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/omarathon/riotapicrawler/presets/util/EloHelper.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/omarathon/riotapicrawler/presets/matchfilters/QueueMatchFilter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="377">
-              <caret line="44" column="54" lean-forward="true" selection-start-line="44" selection-start-column="54" selection-end-line="44" selection-end-column="54" />
-              <folding>
-                <element signature="e#0#5321#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="170">
+              <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -111,7 +121,11 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>getelos</find>
+      <find>System.out.println</find>
     </findStrings>
+    <dirStrings>
+      <dir>C:\Users\Omar\Desktop\projects\java\riotapicrawler\src\main\java</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -122,6 +136,8 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/omarathon/riotapicrawler/src/Crawler.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/omarathon/riotapicrawler/presets/util/EloHelper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/omarathon/riotapicrawler/src/lib/filter/GhostFilter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/omarathon/riotapicrawler/presets/matchfilters/QueueMatchFilter.java" />
       </list>
     </option>
   </component>
@@ -142,8 +158,7 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1256" />
-    <option name="y" value="127" />
+    <option name="x" value="1273" />
     <option name="width" value="1294" />
     <option name="height" value="1407" />
   </component>
@@ -241,8 +256,8 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -287,18 +302,19 @@
       <workItem from="1565548814432" duration="247000" />
       <workItem from="1565549700743" duration="206000" />
       <workItem from="1566068782930" duration="371000" />
-      <workItem from="1566075240262" duration="1326000" />
+      <workItem from="1566075240262" duration="1720000" />
+      <workItem from="1566079391011" duration="58000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2150000" />
+    <option name="totallyTimeSpent" value="2602000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2563593" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2583466" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -322,7 +338,7 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Theme Preview" order="4" />
-      <window_info active="true" anchor="right" id="Maven" order="5" visible="true" weight="0.10055644" />
+      <window_info anchor="right" id="Maven" order="5" visible="true" weight="0.10055644" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Database" order="8" />
@@ -358,7 +374,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/omarathon/riotapicrawler/src/Crawler.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="436">
+        <state relative-caret-position="510">
           <caret line="44" column="66" selection-start-line="44" selection-start-column="66" selection-end-line="44" selection-end-column="66" />
           <folding>
             <element signature="e#6731#6732#0" expanded="true" />
@@ -384,7 +400,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/omarathon/riotapicrawler/presets/util/estimators/MaxSummonerEloEstimator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
-          <caret line="23" column="13" lean-forward="true" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -404,11 +420,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/omarathon/riotapicrawler/presets/util/EloHelper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="377">
-          <caret line="44" column="54" lean-forward="true" selection-start-line="44" selection-start-column="54" selection-end-line="44" selection-end-column="54" />
+        <state relative-caret-position="564">
+          <caret line="55" column="48" selection-start-line="55" selection-start-column="48" selection-end-line="55" selection-end-column="48" />
           <folding>
             <element signature="e#0#5321#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/omarathon/riotapicrawler/src/lib/filter/GhostFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="26" lean-forward="true" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/omarathon/riotapicrawler/presets/matchfilters/QueueMatchFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
         </state>
       </provider>
     </entry>
